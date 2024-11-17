@@ -9,4 +9,4 @@ main.BackgroundColor3 = Color3.fromRGB(38,38,38)
 main.BorderSizePixel = 2
 main.Active = false
 main.Draggable = false
-main.Transparency = 0.3
+main.Transparency = 0.08
